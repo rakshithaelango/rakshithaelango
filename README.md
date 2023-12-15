@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rakshithaelango](https://github.com/rakshithaelango)
 
-- 💬 Ask me about **python(Pandas,Numpy,Matplotlib), SQL, NoSQL, MS Excel, Power Bi, Tableau, SDLC, ML Algorithms,**
+- 💬 Ask me about **python(Pandas,Numpy,Matplotlib), SQL, NoSQL, MS Excel, Power Bi, Tableau, SDLC, ML Algorithms**
 
 - 📫 How to reach me **rakshithaelango@gamil.com**
 
