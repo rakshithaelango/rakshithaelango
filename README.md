@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakshitha</h1>
 <h3 align="center">Aspiring Data Scientist & Data Analyst |SQL Power User |Adept Power Bi, MS Excel, ML |Recent Graduate with a knack for turning data into valuable stories |Eager to contribute and learn</h3>
 
-- 🔭 I’m currently working on **Both project work and skill enhancement.**
+- 🔭 I’m currently working on **Project works and Skill enhancement.**
 
 - 🌱 I’m currently learning **All essential tools in the Analytical field**
 
